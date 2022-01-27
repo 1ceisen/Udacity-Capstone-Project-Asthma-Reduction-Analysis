@@ -83,5 +83,10 @@ to the dependent variable (which can be changed in the Metric Selected parameter
 
  **2.** Go to http://127.0.0.1:8050/ to view Dash app
 
+# Project Writeup
+
+Please check out my blog post for a complete project writeup, including a description in the series of steps to develop this tool.
+https://medium.com/@ceisen/impact-of-various-factors-on-asthma-rates-in-the-united-states-7481f333e16b
+
 # Licensing, Authors, Acknowledgements
 Credit must be given to the EPA, CDC and United States Census Bureau for the data. Additional credit must go to Udacity for providing a high level template to construct this project while also providing the necessary teachings. 
